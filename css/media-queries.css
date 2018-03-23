@@ -1,0 +1,360 @@
+@media (min-width: 1680px){
+	.slider-text h1 {
+		font-size:90px !important;
+	}
+
+	.slider-text h2 {
+		font-size:70px !important;
+	}
+	
+
+}
+
+@media (max-width: 1366px){
+	.banner-text {
+		left:10%;
+	}
+}
+
+@media (min-width: 1025px){
+	.navbar-menu-toggle,
+	.mobile-menu-drawer{
+			display:none;
+		}
+}
+
+@media (min-width: 1024px){
+	.footer-list{
+		width:20% !important;
+	}
+	.about-container{
+		background-size: 100% !important;
+	}
+	
+	.employee-item{
+		width:25% !important;
+	}
+}
+
+@media (max-width: 1024px){
+	.about-container{
+		background-size: auto 100% !important;
+	}
+	.slider-image{
+		height:606px !important;
+	}
+	
+	.menu-nav,
+	#searchwrapper{
+		display:none;
+	}
+	
+}
+
+@media (min-width: 1000px){
+	.menu-nav{
+		position: absolute;
+		right: 0;
+		top: 60px;
+	}
+		
+	
+}
+
+
+@media (min-width: 992px){
+	.page-tabs{
+		width:20% !important;
+	}
+
+}
+
+@media (max-width: 991px){
+	.cb-item:after {
+		margin: 0;
+	}
+	#home-page-slider {
+		padding-top:110px;
+	}
+	.slider-text {
+		top:10%;
+	}
+	.employee-info .info{
+		padding: 15px 0;
+		text-align:left;
+	}
+	
+}
+
+@media (min-width: 768px){
+	.full-width,
+	#page-container{
+		width:100% !important;
+	}
+	#navigation li.first-level a.first-anchor{
+		margin:7px 14px;
+		display: inline-block;
+	}
+	.site-address{width:50%;}
+	
+	.row-ms{
+		width:80%;
+		margin:0 auto !important;
+	}
+	
+	.mt-content-slider{
+		width:75%;
+		margin:auto;
+	}
+	
+	.employee-info .info{
+		padding:0 50px;
+	}
+	
+	.slider-text h1 {
+		font-size: 55px;
+	}
+	.slider-text h2 {
+		font-size: 40px;
+	}
+	.slider-text h3 {
+		font-size:35px;
+	}
+	.slider-text h4 {
+		font-size:28px;
+	}
+	.slider-text h5 {
+		font-size:25px;
+	}
+	.slider-text p{
+		font-size:22px;
+	}
+	
+	.book-appointment a{
+		font-size:16px;
+	}
+	
+	.map-column iframe{
+		padding:0 50px;
+	}
+	
+	.site-map-address h2{
+		margin-bottom:60px;
+	}
+	
+	.row-step-items{
+		width:640px;
+		margin:auto !important;
+	}
+	
+	.employee-item{
+		width:33.33%;
+	}
+}
+
+@media (max-width: 767px){
+	.slider-image{
+		height:313px;
+	}
+	#navigation li a{
+		margin:5px 30px;
+	}
+	
+	.slider-image{
+		height:387px !important;
+	}
+	
+	.employee-item{
+		width:33.33%;
+	}
+	
+	.map-column iframe{
+		padding:0 10px;
+	}
+	
+	.service-item{
+		margin:20px 0;
+	}
+	
+	.banner-text h2 {
+		font-size:40px;
+	}
+	
+	.banner-text p {
+		font-size:18px;
+	}
+	
+	.employee-info-content .name h1 {
+		font-size:30px;
+	}
+	.employee-info-content .name h2{
+		font-size:20px;
+	}
+	
+	.employee-info-content .address h3{
+	    font-size: 25px;
+		padding: 20px 0;
+	}
+	
+	.employee-info-content .address p {
+		font-size:18px !important;
+	}
+	
+	.home-group h2 {
+		font-size:30px;
+	}
+	
+	.about-item h4,
+	.about-container h3 {
+		font-size:14px;
+	}
+	
+	.cb-item h4{
+		font-size:40px;
+	}
+	
+	.cb-item p{
+		font-size:18px;
+	}
+	
+	.slider-text h3{
+		font-size:25px;
+	}
+
+	.slider-text h4{
+		font-size:20px;
+	}
+
+	.slider-text h4{
+		font-size:18px;
+	}
+	.slider-text p{
+		font-size:15px;
+	}
+}
+
+@media (max-width: 640px){
+	.assistance-item{
+		width:100% !important;
+	}
+	
+	.founder-text h4 {
+		font-size: 25px;
+	}
+	
+	.founder-text h5 {
+		font-size: 20px;
+	}
+	.founder-text h6 {
+		font-size:14px;
+	}
+	
+	.banner-text {
+		top:20%;
+	}
+	
+	.map-address{
+		margin:0 15px;
+	}
+	
+	.address-1:after {
+		display:none;
+	}
+	.page-title h2 {
+	    font-size: 28px;
+	}
+	.page-breadcrumbs a {
+	    font-size: 14px;
+	}
+}
+
+@media (min-width:640px){
+	.mobile-menu-drawer{
+		right: -50%;
+		width: 50%;
+	}
+
+}
+
+@media (max-width: 480px){
+	.logo img {
+		width: 55px;
+		height: 55px;
+	}
+	
+	.logo-title h1 {
+		font-size:20px;
+	}
+	.logo-title h2 {
+		font-size:10px;
+	}
+	.book-appointment {
+		padding: 8px 20px;
+	}
+	
+	.slider-text h1{
+		font-size:25px;
+	}
+	.slider-text h2 {
+		font-size:22px;
+	}
+
+	.slider-text h3 {
+		font-size:20px;
+	}
+	.slider-text h4 {
+		font-size:18px;
+	}
+	.slider-text h5 {
+		font-size:15px;
+	}
+
+	.slider-text p {
+		font-size:12px;
+	}
+	.slider-tagline {
+		font-size:15px;
+	}
+	.slider-btn {
+		font-size:12px !important;
+	}
+	
+	.mt-content-nav .item.slick-center .year {
+		width: 65px;
+		height: 65px;
+		font-size: 18px;
+	}
+	
+	.mobile-menu-drawer{
+		right: -70%;
+		width: 70%;
+	}
+
+	.about-item{
+		min-height: 135px !important;
+	}
+
+	.employee-item{
+		width:50%;
+	}
+	#book-popup h1 {
+    	font-size: 28px;
+	}
+	
+	#client-slider p,
+	.service-item p,
+	.about-container .content,
+	.site-address ul li{
+		font-size:14px;
+	}
+
+	.pagetitle{
+	    font-size: 30px;
+	}
+}
+
+@media (max-width: 399px){
+	.employee-item{
+		width:100%;
+	}
+}
